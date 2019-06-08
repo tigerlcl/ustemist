@@ -1,0 +1,3 @@
+The [U-STEMist Scheme](https://www.ustemist.info/about) is under a UGC-funded joint-university teaching and learning research project in Hong Kong ,titled "Joint university collaboration to develop students’ competence and leadership in promoting integrated STEM education".
+
+It engages STEM majors (e.g. engineering, science and computer majors) and pre-service/in-service STEM subject teachers in STEM activities, facilitate exchange of expertise, team building and synergy generation among STEM majors from different faculties and universities to further enhance their STEM competence.
